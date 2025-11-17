@@ -1,4 +1,4 @@
-# API Documentation Sample
+# Stripe API OAS: Tax Code Endpoints
 
 ## About
 Stripe is a company that has an API for credit card transactions. Many online companies use it as a way 
