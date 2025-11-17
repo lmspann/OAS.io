@@ -9,9 +9,9 @@ then the company’s servers will make calls to the Stripe API to make those tra
 Stripe's Tax Code API requests are used to obtain codes that determine a product’s tax rate.
 
 
-I referenced [Stripe's API documentation] (https://docs.stripe.com/api/tax_codes?lang=curl)
+I referenced [Stripe's API documentation](https://docs.stripe.com/api/tax_codes?lang=curl)
 to create a sample OAS for the Tax Code API endpoints in 
-[Swagger] (https://app.swaggerhub.com/apis/techwritingportfolio-d6c/Stripe-API-Tax-Code-OAS/2025-10-29.clover).
+[Swagger](https://app.swaggerhub.com/apis/techwritingportfolio-d6c/Stripe-API-Tax-Code-OAS/2025-10-29.clover).
 
 
 ## Access and Authentication
