@@ -25,8 +25,8 @@ In my sample OAS, clicking the "Authorize" button will open a dialogue box to en
 ## Requests
 The Tax Code API consists of two requests which use the GET method to list all tax codes and retrive tax codes.
 
-In my sample OAS, the GET requests look like this:
-![GET Requests](assets/img/OAS_GET Requests.png)
+The GET requests in my sample OAS depicted in the screenshot below.
+![GET requests](assets/img/OAS_GET Requests.png)
 
 ### Parameters
 
