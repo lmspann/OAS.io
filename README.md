@@ -29,6 +29,8 @@ The GET requests in my sample OAS are depicted in the screenshot below.
 ![GET requests](assets/img/OAS_GET_Requests.png)
 
 ### Parameters
+The tax code ID is the only required paramter for the "/tax_codes/{tax_code_id}" request. 
+![Tax code id parameter](assets/img/OAS_taxcode_id.png)
 
 ## Responses
 
