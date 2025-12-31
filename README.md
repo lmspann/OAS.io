@@ -1,4 +1,4 @@
-# Stripe API OAS: Tax Code Endpoints
+# Stripe Tax Code API
 *[Technical Writing Portfolio](https://lmspann.github.io/)*
 
 ## About
