@@ -1,5 +1,5 @@
 # Stripe API OAS: Tax Code Endpoints
-[^1]: [Technical Writing Portfolio](https://lmspann.github.io/)
+*[Technical Writing Portfolio](https://lmspann.github.io/)
 
 ## About
 Stripe is a company that has an API for credit card transactions. Many online companies use it as a way 
