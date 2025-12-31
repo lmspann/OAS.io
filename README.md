@@ -29,13 +29,18 @@ The `GET` requests in my sample OAS are depicted in the screenshot below.
 ![GET requests](assets/img/OAS_GET_Requests.png)
 
 ### Parameters
-The `tax_code_id` is the only required paramter for the "/tax_codes/{tax_code_id}" request. 
+The `tax_code_id` is the only required paramter for the `/tax_codes/{tax_code_id}` request. 
 ![Tax code id parameter](assets/img/OAS_taxcode_id.png)
 
-The `ending_before`, `limit`, and `starting_after` parameters apply to the "/tax_codes" request. These parameters are not required. 
+The `ending_before`, `limit`, and `starting_after` parameters apply to the `/tax_codes` request. These parameters are not required. 
 When left unpopulated, the default number of Tax Codes retrieved is ten.
 ![Tax code list parameters](assets/img/OAS_taxcode_list_parameters.png)
 
 ## Responses
+The Tax Code API returns JSON responses. 
 
-### Response Codes
+### `/tax_codes/{tax_code_id}` Request Response Code
+[respose code](assets/img/response_taxcode_id.png)
+
+### `/tax_codes` Request Response Code
+[response code](assets/img/response_taxcode_list.png)
