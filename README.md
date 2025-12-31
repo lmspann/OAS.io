@@ -19,7 +19,7 @@ Accessing the Tax Code API endpoints require a Stripe user account with basic au
 Anyone can create a Stripe user account by signing up at [Stripe.com](https://stripe.com/). 
 
 In my sample OAS, clicking the "Authorize" button will open a dialogue box to enter a user name and password. 
-
+![Authorize button](assets/img/OAS_authent.png)
  
 ## Requests
 
