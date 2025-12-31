@@ -1,4 +1,4 @@
-# Stripe API Tax Code Requests
+# Stripe Tax Code API Requests
 *[Technical Writing Portfolio](https://lmspann.github.io/)*
 
 ## About
