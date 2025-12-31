@@ -40,7 +40,7 @@ When left unpopulated, the default number of Tax Codes retrieved is ten.
 The Tax Code API returns JSON responses. 
 
 ### `/tax_codes/{tax_code_id}` Request Response Code
-[respose code](assets/img/response_taxcode_id.png)
+![respose code](assets/img/response_taxcode_id.png)
 
 ### `/tax_codes` Request Response Code
-[response code](assets/img/response_taxcode_list.png)
+![response code](assets/img/response_taxcode_list.png)
