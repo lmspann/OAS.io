@@ -6,7 +6,8 @@ to charge their customers. Customers will enter credit card information at a com
 then the company’s servers will make calls to the Stripe API to make those transactions happen. 
 
 
-Stripe's Tax Code API requests are used to obtain codes that determine a product’s tax rate.
+[Tax codes](https://docs.stripe.com/tax/tax-codes) classify goods and services for tax purposes. Stripe's Tax Code API requests are used 
+to obtain codes that determine a product’s tax rate.
 
 
 I referenced [Stripe's API documentation](https://docs.stripe.com/api/tax_codes?lang=curl)
@@ -22,6 +23,9 @@ In my sample OAS, clicking the "Authorize" button will open a dialogue box to en
 ![Authorize button](assets/img/OAS_authent.png)
  
 ## Requests
+The Tax Code API requests use the GET method to list all tax codes and retrive tax codes.
+
+In my sample OAS, the GET requests look like this:
 
 ### Parameters
 
