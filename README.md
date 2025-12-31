@@ -15,7 +15,12 @@ to create a sample OAS for the Tax Code API endpoints in
 
 
 ## Access and Authentication
+Accessing the Tax Code API endpoints require a Stripe user account with basic authorization credentials. 
+Anyone can create a Stripe user account by signing up at [Stripe.com}(https://stripe.com/). 
 
+In my sample OAS, clicking the "Authorize" button will open a dialogue box to enter a user name and password. 
+
+ 
 ## Requests
 
 ### Parameters
