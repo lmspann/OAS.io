@@ -2,6 +2,8 @@ title: OpenAPI Specification (OAS)
 logo: assets/img/stripeLogo.png
 description: Lauren Spann
 my link: "[Technical Writing Portfolio](https://github.com/lmspann/lmspann.github.io.git)"
+
 show_downloads: true
+
 google_analytics:
 theme: jekyll-theme-minimal
